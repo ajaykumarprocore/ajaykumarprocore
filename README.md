@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajaykumarprocore
+- 👋 Hi, I’m Ajay Kumar
 - 👀 I’m interested in building great software products
 - 🌱 I’m currently learning the complex world of Distributed Systems
 - 💞️ I’m looking to collaborate on anything engineering in Preconstruction
